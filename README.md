@@ -12,7 +12,7 @@
   </p>
 </p>
 
-## Technology Stack 🛠️
+## Technology Stack
 
 Dependencies defined in package.json:
 
