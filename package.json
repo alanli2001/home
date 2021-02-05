@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://alanli2001.github.io/home",
+  "homepage": "https://alanli2001.github.io",
   "version": "2.0.0",
   "private": true,
   "author": {
@@ -10,7 +10,7 @@
     "url": "https://github.com/alanli2001"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.2",
     "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
