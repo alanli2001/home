@@ -6,31 +6,23 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Alan",
   middleName: "",
-  lastName: "Shoaib",
+  lastName: "Li",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
-    },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://github.com/alanli2001",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/alanhanli/",
     },
     {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
-    },
+      image: "fa-envelope",
+      url: "mailto:ahl88@cornell.edu",
+    }
   ],
 };
 
@@ -51,10 +43,10 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
-  imageSize: 375,
+  //imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  //imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "I'm a student at Cornell University majoring in computer science with minors in both applied math and operations research. I'm passionate about machine learning, software development, and quantitative finance. Outside of school, I am a member of the Men's varsity swim team. I am currently seeking internships for summer 2021.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -66,7 +58,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "alanli2001", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -126,8 +118,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for internships for summer 2021! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "ahl88@cornell.edu",
 };
 
 // Blog SECTION
