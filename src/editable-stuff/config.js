@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Alan",
   middleName: "",
   lastName: "Li",
-  message: " Passionate about changing the world with technology. ",
+  message: " Passionate about solving complex problems with science and technology.",
   icons: [
     {
       image: "fa-github",
@@ -46,7 +46,7 @@ const about = {
   //imageLink: require("../editable-stuff/hashirshoaeb.png"),
   //imageSize: 375,
   message:
-    "I'm a student at Cornell University majoring in computer science with minors in both applied math and operations research. I'm passionate about machine learning, software development, and quantitative finance. Outside of school, I am a member of the Men's varsity swim team. I am currently seeking internships for summer 2021.",
+    "I'm a student at Cornell University majoring in computer science with minors in both applied math and operations research. I'm passionate about machine learning, software development, and quantitative finance. Outside of school, I am a member of the Men's varsity swim team. I am currently an incoming software developer intern at FINRA.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -103,16 +103,16 @@ const skills = {
     { name: "JavaScript", value: 70 },
     { name: "React", value: 50 },
   ],
-  softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
-  ],
+  // softSkills: [
+  //   { name: "Goal-Oriented", value: 80 },
+  //   { name: "Collaboration", value: 90 },
+  //   { name: "Positivity", value: 75 },
+  //   { name: "Adaptability", value: 85 },
+  //   { name: "Problem Solving", value: 75 },
+  //   { name: "Empathy", value: 90 },
+  //   { name: "Organization", value: 70 },
+  //   { name: "Creativity", value: 90 },
+  // ],
 };
 
 // GET IN TOUCH SECTION
