@@ -7,8 +7,6 @@
     Personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
     <a href="https://alanli2001.github.io">alanli2001.github.io</a>
     <br />
-    <br />
-    <a href="https://alanli2001.github.io/#home">About Me</a>
   </p>
 </p>
 
