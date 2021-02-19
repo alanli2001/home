@@ -32,13 +32,13 @@ function Skills({ heading, hardSkills, softSkills }) {
           <Tab
             tabClassName="skills-tab lead"
             eventKey="hard-skills"
-            title="Technical Skills"
+            // title="Technical Skills"
           >
             <Row className="pt-3 px-1">
               <SkillsTab skills={hardSkills} isScrolled={isScrolled} />
             </Row>
           </Tab>
-          <Tab
+          {/* <Tab
             tabClassName="skills-tab lead"
             eventKey="soft-skills"
             title="Soft Skills"
@@ -46,7 +46,7 @@ function Skills({ heading, hardSkills, softSkills }) {
             <Row className="pt-3 px-1">
               <SkillsTab skills={softSkills} isScrolled={isScrolled} />
             </Row>
-          </Tab>
+          </Tab> */}
         </Tabs>
       </Container>
     </Jumbotron>
