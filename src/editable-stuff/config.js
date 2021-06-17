@@ -101,14 +101,14 @@ const skills = {
     { name: "C/C++", value: 85 },
     { name: "MATLAB", value: 60 },
     { name: "JavaScript", value: 70 },
-    { name: "React", value: 50 },
+    { name: "Typescript", value: 50 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
+    { name: "Problem Solving", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Adaptability", value: 75 },
+    { name: "Positivity", value: 85 },
+    { name: "Goal-Oriented", value: 75 },
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
     { name: "Creativity", value: 90 },
@@ -120,7 +120,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for internships for summer 2021! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for internships for summer 2022! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "ahl88@cornell.edu",
 };
 
